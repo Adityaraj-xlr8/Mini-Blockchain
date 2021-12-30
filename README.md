@@ -1,6 +1,6 @@
 Mini-Blockchain-in JAVA
 
-Mini block chain that supports POW(proof of work) consensus mechanism using SHA-256.
+Mini Blockchain that supports POW(proof of work) consensus mechanism using SHA-256.
 
 This implementation of blockchain simply deals with a follwing features :
 
